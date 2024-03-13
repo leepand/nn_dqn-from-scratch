@@ -1,2 +1,2 @@
-# nn_dqn-from-scratch
-MLP-framework (pure numpy) and DQN-framework for OpenAI's Gym games.
+# Deep Reinforcement Learning in Games
+MLP framework and DQN framework for OpenAI's gym game environments. - written in numpy  
